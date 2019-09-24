@@ -21,7 +21,7 @@ function whileLoop(num) {
 
 function doWhileLoop(num) {
   
-  var int = 10;
+  var int = 0;
 
 do{
 	console.log("I run once regardless");
